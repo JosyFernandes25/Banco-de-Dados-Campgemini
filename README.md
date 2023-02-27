@@ -1,6 +1,6 @@
 ### _Controlando acesso ao banco de dados_ 🏛
 
-**Algoritmo criado durante o curso de Lógica de Programação III do Programa Start By Campgemini, em _Janeiro/2023._**
+**Algoritmo criado durante o curso de Lógica de Programação III do Programa Start By Campgemini, em _Fevereiro/2023._**
 
 📍 **ABORDAGENS**
 
